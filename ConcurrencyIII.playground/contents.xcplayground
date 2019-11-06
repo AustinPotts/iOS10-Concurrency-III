@@ -4,5 +4,6 @@
         <page name='Queues'/>
         <page name='Untitled Page'/>
         <page name='NSOperation'/>
+        <page name='DispatchGroup'/>
     </pages>
 </playground>
