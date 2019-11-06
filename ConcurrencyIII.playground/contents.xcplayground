@@ -3,5 +3,6 @@
     <pages>
         <page name='Queues'/>
         <page name='Untitled Page'/>
+        <page name='NSOperation'/>
     </pages>
 </playground>
